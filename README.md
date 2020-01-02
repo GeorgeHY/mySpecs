@@ -1,0 +1,2 @@
+# mySpecs
+private cocoapods spec
